@@ -2,7 +2,7 @@
 
 Creación de micro frontends utilizando un marco de Single-SPA
 
-# Run
+# Ejecución
 
 cd .\single-spa-demo-root-config\
 npm start -- --port 9000
@@ -15,3 +15,5 @@ npm start -- --port 9002
 
 cd .\single-spa-demo-test-page\
 npm start -- --port 9003
+
+![image](https://user-images.githubusercontent.com/2068328/137815786-8f46b860-c87f-417c-9eef-785ee97c3978.png)
